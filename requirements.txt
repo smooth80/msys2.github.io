@@ -11,7 +11,7 @@ mkdocs-material==7.1.9
 mkdocs==1.2.1; python_version >= "3.6"
 packaging==20.9; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.6"
 pygments==2.9.0; python_version >= "3.5"
-pymdown-extensions==8.2; python_version >= "3.6"
+pymdown-extensions==10.0; python_version >= "3.6"
 pyparsing==2.4.7; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.6"
 python-dateutil==2.8.1; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6"
 pyyaml-env-tag==0.1; python_version >= "3.6"
